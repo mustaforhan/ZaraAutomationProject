@@ -1,0 +1,1 @@
+Bu klasöre sisteminize uygun chromedriver.exe dosyasını koymalısınız.
